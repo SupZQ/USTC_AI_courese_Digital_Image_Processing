@@ -8,9 +8,10 @@ close all;
 %%
 ratio_1 = 0.4; % Ëõ·ÅÒò×Ó1
 ratio_2 = 3;   % Ëõ·ÅÒò×Ó2
-% filename = 'lenna'; %²âÊÔÍ¼Ïñ1
+
+filename = 'lenna'; %²âÊÔÍ¼Ïñ1
 % filename = 'cameraman'; %²âÊÔÍ¼Ïñ2
-filename = 'building'; %²âÊÔÍ¼Ïñ3
+% filename = 'building'; %²âÊÔÍ¼Ïñ3
 
 im = imread([filename, '.jpg']);
 [row, col, channel] = size(im); %µÃµ½Í¼Ïñ³ß´ç
