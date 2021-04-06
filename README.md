@@ -9,7 +9,13 @@ This repository is used to store programming  assignments for the University of 
 
 - bicubic interpolation
 
-## Lab 2: Wait for the release
+## Lab 2: Image transformation and spatial filtering
+
+- Histogram equalization
+- Spatial filtering
+  1. Average filtering
+  2. Median filtering
+  3. Image sharpening
 
 You can find more information about this course on the [course homepage](https://ustc-dip.github.io/).
 
